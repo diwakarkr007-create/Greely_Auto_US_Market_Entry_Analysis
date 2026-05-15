@@ -1,9 +1,12 @@
 # Greely_Auto_US_Market_Entry_Analysis
 This project was developed for Greely Auto, an international automotive firm looking to enter the competitive US market. Before their official launch, the company needed to understand the factors affecting car prices in the US to design and price their vehicles effectively.
 # 🚗 Greely Auto: US Market Entry Strategy & Price Prediction
+## 🎥 Project Walkthrough
+[▶️ Watch the Video Presentation] (https://drive.google.com/file/d/1LM0zq7sPasJFRo4p5IBSCV5CnZu62QBz/view?usp=drivesdk)
 
-## 🌐 Live Dashboard
-[👉 Click Here to Explore the Live Interactive Report](https://app.powerbi.com/view?r=eyJrIjoiNDQ3Nzc1M2ItYjMxNS00OTU5LTliNTQtNzE3YzU4YjRkMzQ4IiwidCI6ImYxODZiYjUxLWMyNDMtNDA0OC1iNDA4LTliMjhhNmU1MjVlZiJ9)
+## 🌐 Live Interactive Dashboard
+[📊 View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDQ3Nzc1M2ItYjMxNS00OTU5LTliNTQtNzE3YzU4YjRkMzQ4IiwidCI6ImYxODZiYjUxLWMyNDMtNDA0OC1iNDA4LTliMjhhNmU1MjVlZiJ9)
+
 
 ## 📊 Business Problem
 Greely Auto, an international automotive company, is planning a strategic entry into the US market. This project provides a data-backed roadmap to understand the pricing dynamics of the American automotive industry, enabling the company to position its launch models effectively.
